@@ -3,7 +3,6 @@ Soy egresada de Computación e Informática, con base sólida en programación y
 
 <img width="120" height="85" alt="demo3" src="https://github.com/user-attachments/assets/f59ce84a-039a-48b6-9d21-172275b31da8" />
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-vera-salinas-6193682aa/) 
 
