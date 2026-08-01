@@ -15,7 +15,7 @@ Soy egresada de Computación e Informática, con base sólida en programación y
 <img width="200" height="30" alt="blinkiesCafe-em" src="https://github.com/user-attachments/assets/20161bf0-99f8-4238-9c0e-55e7e5f9a42d" />
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=alexandraverasalinas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=alexandraverasalinas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
