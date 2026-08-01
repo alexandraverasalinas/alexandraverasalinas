@@ -1,7 +1,7 @@
 ## 👋 Sobre mí
 Soy egresada de Computación e Informática, con base sólida en programación y bases de datos. Me adapto rápido a nuevas tecnologías y disfruto resolver problemas en equipo. 
 
-<img width="200" height="270" alt="demo" src="https://github.com/user-attachments/assets/7c34fb8b-fb71-4000-8942-1477251142d9" />
+<img width="150" height="50"alt="demo" src="https://github.com/user-attachments/assets/7c34fb8b-fb71-4000-8942-1477251142d9" />
 
 
 
